@@ -1,14 +1,14 @@
 ## Interface: 60000
-## Title: ShestakUI Filger
-## Notes: Class timers for ShestakUI
+## Title: FugarUI Filger
+## Notes: Class timers for FugarUI
 ## Author: Nils Ruesch
 ## Version: 5.04
 ## Credits: Affli, Ildyria, SinaC
 ## Thanks: Erratic, Wetxius
-## RequiredDeps: ShestakUI
+## RequiredDeps: FugarUI
 ## X-Curse-Packaged-Version: 5.04
-## X-Curse-Project-Name: ShestakUI
-## X-Curse-Project-ID: shestakui
+## X-Curse-Project-Name: FugarUI
+## X-Curse-Project-ID: FugarUI
 ## X-WoWI-ID: 19033
 ## Website: http://shestak.org
 
@@ -16,4 +16,4 @@ Config\Settings.lua
 Config\Positions.lua
 Config\Spells.lua
 Config\Profiles.lua
-ShestakUI_Filger.lua
+FugarUI_Filger.lua

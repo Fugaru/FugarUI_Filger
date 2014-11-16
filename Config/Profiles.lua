@@ -1,8 +1,8 @@
-﻿local T, C, L, _ = unpack(ShestakUI)
+﻿local T, C, L, _ = unpack(FugarUI)
 if C.unitframe.enable ~= true then return end
 
 ----------------------------------------------------------------------------------------
---	ShestakUI_Filger personal configuration file
+--	FugarUI_Filger personal configuration file
 --	BACKUP THIS FILE BEFORE UPDATING!
 --	ATTENTION: When saving changes to a file encoded file should be in UTF8
 ----------------------------------------------------------------------------------------

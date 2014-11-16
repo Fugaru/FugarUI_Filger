@@ -1,4 +1,4 @@
-local T, C, L, _ = unpack(ShestakUI)
+local T, C, L, _ = unpack(FugarUI)
 if C.unitframe.enable ~= true then return end
 
 C["filger_settings"] = {
